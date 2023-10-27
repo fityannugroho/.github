@@ -4,8 +4,8 @@ Please check if your PR fulfills the following requirements:
 
 > Put `[x]` to check
 
-- [ ] I have read the [documentation](../README.md)
-- [ ] I have read and followed the [Contributing Guidelines](../CONTRIBUTING.md).
+- [ ] I have read the documentation.
+- [ ] I have read and followed the Contributing Guidelines.
 - [ ] I have included a pull request description of my changes.
 - [ ] I have included the necessary changes to the documentation.
 - [ ] I have added tests to cover my changes.
