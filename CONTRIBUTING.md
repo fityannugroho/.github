@@ -5,7 +5,6 @@ Please read this whole thing. Most of this applies to any repo on GitHub. 🙏
 ## Contribute
 
 Code is not the only thing you can contribute. I truly appreciate contributions in the form of:
-
 - Fixing typos.
 - Improving docs.
 - Triaging [issues](https://github.com/search?o=desc&q=user:fityannugroho+is:issue+is:open&s=updated&type=Issues).
@@ -35,12 +34,12 @@ Code is not the only thing you can contribute. I truly appreciate contributions 
 - Don't add editor-specific metafiles. Those should be added to your own [global gitignore](https://gist.github.com/subfuzion/db7f57fff2fb6998a16c).
 - Squash your local commits into one commit before submitting the pull request, unless you have important atomic commits.
 - Double-check your contribution by going over the diff of your changes before submitting a pull request. It's a good way to catch bugs/typos and find ways to improve the code.
-- Do the pull request from a new branch. Never the default branch (`main`/`master`).
+- Do the pull request from a new branch. Never from the default branch (`main`/`master`).
 
 ### Submission
 
 - Give the pull request a clear title and description. It's up to you to convince the maintainers why your changes should be merged.
-- If the pull request fixes an issue, reference it in the pull request description using the syntax `Resolve #123` under the **Other information** section.
+- If the pull request fixes an issue, reference it in the pull request description using the syntax `Resolve #123` in "Issue Number" field (see [Pull Request Template](PULL_REQUEST_TEMPLATE.md)).
 - Make sure the “Allow edits from maintainers” checkbox is checked. That way I can make certain minor changes myself, allowing your pull request to be merged sooner.
 
 ### Review
