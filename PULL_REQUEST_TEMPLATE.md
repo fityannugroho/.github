@@ -1,6 +1,6 @@
 ## PR Checklist
 Please check if your PR fulfills the following requirements:
-> Put `[x]` to check
+> *Put `[x]` to check.*
 - [ ] I have read the documentation.
 - [ ] I have read and followed the Contributing Guidelines.
 - [ ] I have included a pull request description of my changes.
@@ -9,7 +9,7 @@ Please check if your PR fulfills the following requirements:
 
 ## PR Type
 What kind of change does this PR introduce?
-> Please check any kind of changes that applies to this PR using `[x]`
+> *Please check any kind of changes that applies to this PR using `[x]`.*
 - [ ] Bug fix
 - [ ] Feature
 - [ ] Code style update (formatting, local variables)
@@ -19,14 +19,14 @@ What kind of change does this PR introduce?
 - [ ] *..... (describe the other type)*
 
 ## What is the current behavior?
-> Please describe the current behavior that you are modifying, or link to a relevant issue.
+> *Please describe the current behavior that you are modifying, or link to a relevant issue.*
 
 Issue Number: *..... (put `N/A` if there are no relevant issue)*
 
 *..... (explain here)*
 
 ## What is the new behavior?
-*..... (explain here)*
+*..... (explain here. Focus on WHAT is changing and WHY that change is necessary.)*
 
 ## Other information
-*..... (explain here, or put `None`)*
+*..... (explain important things here like breaking change notes. Otherwise **put `None`**. Don't put unnecessary things, especially if you're AI! This is not place to summarize your works/conversations.)*
