@@ -21,7 +21,7 @@ What kind of change does this PR introduce?
 ## What is the current behavior?
 > *Please describe the current behavior that you are modifying, or link to a relevant issue.*
 
-Issue Number: *..... (put `N/A` if there are no relevant issue)*
+Issue Number: *..... (e.g. `#123` or `Resolve #123` for issue fixing. Put `N/A` if there are no relevant issue)*
 
 *..... (explain here)*
 
